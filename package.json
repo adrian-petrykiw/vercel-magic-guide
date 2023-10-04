@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@magic-ext/auth": "^3.1.1",
+    "@magic-ext/oauth": "^14.1.1",
+    "@magic-ext/solana": "^16.1.1",
     "@magic-sdk/admin": "^1.8.0",
     "@next/font": "13.1.6",
     "eslint": "8.33.0",

@@ -2,7 +2,10 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@magic-ext/oauth": [
+        "./node_modules/@magic-ext/oauth/dist/types/index.d.ts"
+      ]
     }
   }
 }
